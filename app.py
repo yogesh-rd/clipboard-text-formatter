@@ -3,7 +3,7 @@ import tkinter as tk
 root = tk.Tk()
 
 root.title("Newline character remover")
-icon = tk.PhotoImage(file = "/media/data/projects/remove_newline/icon.png")
+icon = tk.PhotoImage(file="/media/data/projects/remove_newline/icon.png")
 root.iconphoto(False, icon)
 
 def remove_newline_characters():
