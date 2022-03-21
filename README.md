@@ -1,5 +1,7 @@
-# remove-newline-characters
-A GUI tool made using `tkinter` for removing newline characters from your clipboard. Replaces every  `\n` with a whitespace, ideal for copy pasting text from PDFs into your own documents.
+# clipboard-text-formatter
+A GUI tool made using `tkinter` for formatting the text in your clipboard.
+- Remove newline characters (`\n`)
+- Remove bullet points (`'•'`)
 
 ## Running the Application
 (Developed using Python 3.8.10)
