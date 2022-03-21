@@ -19,10 +19,8 @@ def remove_bullet_points():
 
 remove_newline_button = tk.Button(root, text="Remove newline characters", command=remove_newline_characters)
 remove_bullets_button = tk.Button(root, text="Remove bullet points", command=remove_bullet_points)
-exit_button = tk.Button(root, text="Exit", command=root.destroy)
 
 remove_newline_button.grid(row=0, column=0)
 remove_bullets_button.grid(row=0, column=1)
-exit_button.grid(row=1, column=0)
 
 root.mainloop()
