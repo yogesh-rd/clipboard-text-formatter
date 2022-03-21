@@ -1,7 +1,7 @@
 # clipboard-text-formatter
 A GUI tool made using `tkinter` for formatting the text in your clipboard.
 - Remove newline characters (`\n`)
-- Remove bullet points (`'•'`)
+- Remove bullet points (`•`)
 
 ## Running the Application
 (Developed using Python 3.8.10)
