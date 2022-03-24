@@ -12,7 +12,7 @@ A GUI tool made using `tkinter` for formatting the text in your clipboard.
 - Optionally, you can use [pyinstaller](https://pyinstaller.readthedocs.io/en/stable/usage.html) to get an executable.
 - The following window should open.
 
-![Screenshot](https://raw.githubusercontent.com/yogesh-rd/remove-newline-characters/main/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/yogesh-rd/clipboard-text-formatter/main/screenshot.png)
 ## Using the Application
 - Copy some text.
 - Click on the "Remove newline characters" button.
